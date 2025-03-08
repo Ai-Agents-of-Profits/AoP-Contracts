@@ -1,0 +1,25 @@
+{
+  "network": "monadTestnet",
+  "deployTime": "2025-03-08T03:55:55.000Z",
+  "libraries": {
+    "AoP1VaultHelpers": "0x4059D79249Fa0c984D0F91Cc60aE37E2F085a29d",
+    "AoP2VaultHelpers": "0xF77d998d2721731E5dDb21fa4701e892feDff1C5",
+    "VaultHelpers": "0x346d7627d5e1c684337a197A3CA957402861196B"
+  },
+  "factory": "0x99abDc1fe920cd2525a14ca7764C3F6278200267",
+  "vaults": {
+    "AoP1Vault": "0xa2B8E2eeef0551f07E7e494517317fe4Aabfc67F",
+    "AoP2Vault": "0xbB171f61038c9011802a60955e57278C8C5fF80f"
+  },
+  "tokens": {
+    "USDT": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D"
+  },
+  "config": {
+    "pythAddress": "0xad2B52D2af1a9bD5c561894Cdd84f7505e1CD0B5",
+    "monUsdPriceId": "0xe786153cc54abd4b0e53b4c246d54d9f8eb3f3b5a34d4fc5a2e9a423b0ba5d6b",
+    "feeRecipient": "0x20058C377061C2508047aD07AddF8a55606550FF"
+  },
+  "testContracts": {
+    "pythPriceTest": "0x519FF3624d3c395D76AB0FaAb11AC93BcD178E7a"
+  }
+}

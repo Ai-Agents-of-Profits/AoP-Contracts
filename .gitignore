@@ -1,0 +1,57 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Hardhat files
+cache/
+artifacts/
+typechain/
+typechain-types/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build outputs
+dist/
+build/
+coverage/
+coverage.json
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiler files
+contracts/flattened/
+
+# Test contract uploads
+deployments/localhost/
+
+# Local deployment info
+deployment-info.dev.json
+.DS_Store
+
+# Hardhat gas reports
+gas-report.txt
+
+# Solidity coverage
+.coverage_artifacts/
+.coverage_cache/
+.coverage_contracts/
+
+# Misc
+.tmp/
+.temp/
